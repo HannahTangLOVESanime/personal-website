@@ -4,51 +4,23 @@
       "name": "Home",
       "link": "index.html"
     },
-    {   data.menuItems.forEach(function (item) {
-
-        // The active class will highlight the current page.
-        let activeClass = "";
-
-        if (item.link === currentPage) {
-          activeClass = "active";
-        }
+    {  
 
 
       "name": "About Me",
       "link": "about.html"
     },
-    {   data.menuItems.forEach(function (item) {
-
-        // The active class will highlight the current page.
-        let activeClass = "";
-
-        if (item.link === currentPage) {
-          activeClass = "active";
-        }
+    {   
 
 
       "name": "Achievements",
       "link": "achievement.html"
     },
-    {   data.menuItems.forEach(function (item) {
-
-        // The active class will highlight the current page.
-        let activeClass = "";
-
-        if (item.link === currentPage) {
-          activeClass = "active";
-        }
+   
 
 
       "name": "Contact",
       "link": "contact.html"
     }
-  ]   data.menuItems.forEach(function (item) {
-
-        // The active class will highlight the current page.
-        let activeClass = "";
-
-        if (item.link === currentPage) {
-          activeClass = "active";
-        }
+  ]   
 }
