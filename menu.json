@@ -16,11 +16,9 @@
       "name": "Achievements",
       "link": "achievement.html"
     },
-   
-
-
+    {
       "name": "Contact",
       "link": "contact.html"
     }
-    
+  ]
 }
